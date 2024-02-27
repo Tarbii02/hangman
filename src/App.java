@@ -2,6 +2,7 @@ import processing.core.*;
 
 import classes.*;
 
+//main loops
 public class App  extends PApplet{
 
     Hangman game;
